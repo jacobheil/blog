@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is also a work in progress. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The personal blog of Jacob Heil, in which I'll write about digital scholarship (in general), humanities (in particular), pedagogy, and project management. With luck, I'll also write about my disciplinary interests in Early Modern English Literature and the material book, especially in the handpress period. When I'm feeling presumptuous I might write about library things, even though I'm an interloper, and about Liberal Arts Colleges writ large.

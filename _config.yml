@@ -2,7 +2,7 @@
 title: Practice. Make. Perfect.
 email: jheil@wooster.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The personal blog of Jacob Heil, in which I'll write about digital scholarship (in general), humanities (in particular), pedagogy, and project management. With luck, I'll also write about my disciplinary interests in Early Modern English Literature and the material book, especially in the handpress period. When I'm feeling presumptuous I might write about library things, even though I'm an interloper, and about Liberal Arts Colleges writ large.
+  Personal blog of Jacob Heil, Mellon Digital Scholar for The Five Colleges of Ohio. The views expressed herein, however, are his own and not those of the Andrew W. Mellon Foundation nor of the Ohio Five. When writing, writing about: digital scholarship, humanities, project management, and pedagogy; liberal arts colleges and DH/DS; and possibly my dogs. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://jacobheil.github.io/" # the base hostname & protocol for your site
 twitter_username: "@dr_heil"
