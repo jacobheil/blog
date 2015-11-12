@@ -3,7 +3,7 @@ title: Practice. Making. Perfect.
 email: jheil@wooster.edu
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog of Jacob Heil, Mellon Digital Scholar for The Five Colleges of Ohio. The views expressed herein, however, are his own and not those of the Andrew W. Mellon Foundation nor of the Ohio Five. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/pmp" # the subpath of your site, e.g. /blog/
 url: "http://jacobheil.github.io/" # the base hostname & protocol for your site
 twitter_username: "@dr_heil"
 github_username:  "jacobheil"
