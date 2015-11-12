@@ -1,6 +1,7 @@
 ---
 title: This is my title
 layout: post
+permalink: test_post
 ---
 
 Here is my page.
