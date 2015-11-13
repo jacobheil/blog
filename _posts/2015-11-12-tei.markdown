@@ -1,7 +1,7 @@
 ---
 title: Why we TEI
 layout: post
-permalink: why we tei
+permalink: why-we-tei
 
 ---
 
