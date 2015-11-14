@@ -8,7 +8,28 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+/**
+ * Jumbotron background styling
+ * http://stackoverflow.com/questions/20914711/bootstrap-3-jumbotron-background-image-effect
+ */
 
+ .bg {
+  background: url('https://dl.dropboxusercontent.com/u/60381091/dogs.20140419.1.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 350px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  height: 350px;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  background:transparent;
+}
 
 /**
  * Basic styling
