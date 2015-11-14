@@ -14,11 +14,10 @@ dl, dd, ol, ul, figure {
  */
 
  .bg {
-  background: url('https://dl.dropboxusercontent.com/u/60381091/dogs.20140419.1.jpg') no-repeat;
-  background-size: cover;
+  background: url('https://dl.dropboxusercontent.com/u/60381091/dogs.20140419.1.jpg') no-repeat center center;
   position: fixed;
   width: 100%;
-  height: auto
+  height: 350px; /*same height as jumbotron */
   top:0;
   left:0;
   z-index: -1;
