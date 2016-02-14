@@ -21,10 +21,10 @@ Wooster, OH 44691  | | [jacobheil.com](http://jacobheil.com/) &  [@dr_heil](http
 
 ### Professional Experience
 
-#### Five Colleges of Ohio, Libraries 
+**Five Colleges of Ohio, Libraries**
 **Mellon Digital Scholar, September 2013 – present** // Cultivating a fertile environment for digital scholarship in our consortium of liberal arts colleges; work with faculty to plan and develop curricular and collaborative digital projects; identify specialists and build multidisciplinary project teams
 
-#### Texas A&M University, Initiative for Digital Humanities, Media, & Culture 
+**Texas A&M University, Initiative for Digital Humanities, Media, & Culture**
 **Book Historian, Project Manager for the Early Modern OCR Project, August 2012 – August 2013** // Developed, with Cushing Library's Curator of Rare Books, the protocols by which the project identifies and deploys sixteenth- through early eighteenth-century typefaces; consulted with technologists and other researchers on early modern typeface; organized eMOP's conversations across continents and disciplines 
 
 #### Texas A&M University, English Department
