@@ -1,25 +1,15 @@
 ---
 layout: page
-title: CV
+title: Jacob A. Heil
 permalink: /cv/
 ---
 
-## Jacob A. Heil
-
-### Andrews Library
-
-### College of Wooster
-
-### 1140 Beall Avenue
-
-### Wooster, OH 44691
-
-[jheil@wooster.edu](mailto:jheil@wooster.edu)
-
-330.463.2436 (work) & 409.392.1507 (mobile) 
-
-[jacobheil.com](http://jacobheil.com/) & [@dr_heil](https://twitter.com/dr_heil)
-
+Earthbound Communication  |  Electronic Communication
+----- | -----:
+Andrews Library  |  [jheil@wooster.edu](mailto:jheil@wooster.edu)
+College of Wooster  |  330.463.2436 (work) & 409.392.1507 (mobile) 
+1140 Beall Avenue  | [jacobheil.com](http://jacobheil.com/) 
+Wooster, OH 44691  | [@dr_heil](https://twitter.com/dr_heil)
 
 ## Education
 
@@ -81,7 +71,7 @@ Transcribed copies of Donne's works for digital collation
 
 ##### Regents' Fellowship (2004, 2005), Texas A&M University
 
-Grants, Awards, Honors
+### Grants, Awards, Honors
 
 “OCR'ing the Early Modern Text” (2012, contributor), The Andrew W. Mellon Foundation 
 
@@ -93,7 +83,7 @@ Humanities Research Award (2007), Cushing Library and Glasscock Center, Texas A&
 
 Book History Workshop Scholarship (2006), Cushing Library, Texas A&M University
 
-Professional Service
+### Professional Service
 
 Steering Committee. Institute for Liberal Arts Digital Scholarship (ILiADS) 2016
 
@@ -103,7 +93,7 @@ Project Mentor and Consultant, Outreach and Web Dev committee convener. ILiADS 2
 
 Digital Project Consultant. Great Lakes Colleges Association DLA meeting 2014
 
-Selected Recent and Forthcoming Presentations
+### Selected Recent and Forthcoming Presentations
 
 “Digital Scholarship in Action: Pedagogy.” Modern Language Association, panelist. January 2016, Austin, TX. 
 
@@ -129,7 +119,7 @@ Selected Recent and Forthcoming Presentations
 
 "eMOP and the Changing Face of the Humanities,"  Networked Humanities from Within and Without the University, paper presentation. February 2013, Lexington, KY.
 
-Published Writing 
+### Published Writing 
 
 “Book History in the Early Modern OCR Project, or, Bringing Balance to the Force,” Journal for Early Modern Cultural Studies, 13.4, Philadelphia, PA: University of Pennsylvania Press, 2013. 90-103. 
 
@@ -137,7 +127,7 @@ Invited review of Debates in the Digital Humanities, Matthew K. Gold (ed.), U of
 
 Invited review article on Shakespeare, National Poet-Playwright by Patrick Cheney. Shakespeare Yearbook: Shakespeare Apocrypha, vol. 17, Lewiston, NY: Edwin Mellen, 2007: 508-13.
 
-Selected Skills
+### Selected Skills
 
 Creative: 		Adobe Photoshop Elements, Adobe Illustrator, Inkscape
 
@@ -152,7 +142,7 @@ Web: 			HTML5, CSS3, javascript, php (and Wordpress, Omeka, Drupal, Bootstrap)
 XML: 			TEI standards, XSLT, XPath
 
 
-References
+### References
 
 Ben Daigle
 Associate Director of Consortial Library Systems
