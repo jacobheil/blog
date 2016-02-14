@@ -1,6 +1,6 @@
 ---
 title: Why we TEI
-layout: post
+layout: default_jumbo
 permalink: why-we-tei
 
 ---
