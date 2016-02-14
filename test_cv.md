@@ -4,18 +4,18 @@ title: CV
 permalink: /cv/
 ---
 
-### Jacob A. Heil
-#### Andrews Library
-#### College of Wooster
-####  1140 Beall Avenue
-####Wooster, OH 44691
+## Jacob A. Heil
+### Andrews Library
+### College of Wooster
+### 1140 Beall Avenue
+### Wooster, OH 44691
 
 [jheil@wooster.edu](mailto:jheil@wooster.edu)
 330.463.2436 (work)	|	409.392.1507 (mobile) 
 [jacobheil.com](http://jacobheil.com/)  		|  [@dr_heil](https://twitter.com/dr_heil)
 
 
-### Education
+## Education
 ##### Ph.D., Texas A&M University. December 2009, English Literature. 
 Dissertation entitled “Authors, Audiences, and Elizabethan Prologics,” directed by Dr. James L. Harner.
  
@@ -24,7 +24,7 @@ Thesis entitled “‘Wote ye not I com before’: Prologues in Early English Dr
 
 ##### B.A., University of Virginia, May 1999, English Literature.
 
-###Professional Experience
+## Professional Experience
 ##### Five Colleges of Ohio, Libraries 
 ###### Mellon Digital Scholar, September 2013 – present	
 Cultivate a fertile environment for digital scholarship in our consortium of liberal arts colleges; work with faculty to plan and develop curricular and collaborative digital projects; identify specialists and build multidisciplinary project teams
