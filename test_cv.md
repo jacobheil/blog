@@ -7,11 +7,11 @@ permalink: /cv/
 Earthbound Communication  |  Electronic Communication
 ----- | -----:
 Andrews Library  |  [jheil@wooster.edu](mailto:jheil@wooster.edu)
-College of Wooster  |  330.463.2436 (work) & 409.392.1507 (mobile) 
-1140 Beall Avenue  | [jacobheil.com](http://jacobheil.com/) 
-Wooster, OH 44691  | [@dr_heil](https://twitter.com/dr_heil)
+College of Wooster  |  330.463.2436 (work)
+1140 Beall Avenue  | 409.392.1507 (mobile)
+Wooster, OH 44691  | [jacobheil.com](http://jacobheil.com/) &  [@dr_heil](https://twitter.com/dr_heil)
 
-## Education
+### Education
 
 ##### Ph.D., Texas A&M University. December 2009, English Literature. 
 Dissertation entitled “Authors, Audiences, and Elizabethan Prologics,” directed by Dr. James L. Harner.
@@ -21,55 +21,37 @@ Thesis entitled “‘Wote ye not I com before’: Prologues in Early English Dr
 
 ##### B.A., University of Virginia, May 1999, English Literature.
 
-## Professional Experience
+### Professional Experience
 
 ##### Five Colleges of Ohio, Libraries 
-
-###### Mellon Digital Scholar, September 2013 – present	
-
-Cultivate a fertile environment for digital scholarship in our consortium of liberal arts colleges; work with faculty to plan and develop curricular and collaborative digital projects; identify specialists and build multidisciplinary project teams
+**Mellon Digital Scholar, September 2013 – present** // Cultivating a fertile environment for digital scholarship in our consortium of liberal arts colleges; work with faculty to plan and develop curricular and collaborative digital projects; identify specialists and build multidisciplinary project teams
 
 ##### Texas A&M University, Initiative for Digital Humanities, Media, & Culture 
 
-###### Book Historian, Project Manager for the Early Modern OCR Project, August 2012 – August 2013
-Developed, with Cushing Library's Curator of Rare Books, the protocols by which the project identifies and deploys sixteenth- through early eighteenth-century typefaces; consulted with technologists and other researchers on early modern typeface; organized eMOP's conversations across continents and disciplines 
+**Book Historian, Project Manager for the Early Modern OCR Project, August 2012 – August 2013** // Developed, with Cushing Library's Curator of Rare Books, the protocols by which the project identifies and deploys sixteenth- through early eighteenth-century typefaces; consulted with technologists and other researchers on early modern typeface; organized eMOP's conversations across continents and disciplines 
 
 ##### Texas A&M University, English Department
-
-###### Postdoctoral Lecturer, August 2011 – August 2012
-Taught Shakespeare (upper-level), English Lit. Survey (to ca.1800), and Intro to Literature. 
+**Postdoctoral Lecturer, August 2011 – August 2012** // Taught Shakespeare (upper-level), English Lit. Survey (to ca.1800), and Intro to Literature. 
 
 ##### Rutgers University-Camden, English Department 
-
-###### Lecturer, fall 2010
-Taught courses in Shakespeare (upper-level)
+**Lecturer, fall 2010** // Taught courses in Shakespeare (upper-level)
 
 ##### Texas A&M University, World Shakespeare Bibliography
-
-###### Correspondent, May 2005 – August 2009
-Created and curated entries for global Shakespeareana  
+**Correspondent, May 2005 – August 2009** // Created and curated entries for global Shakespeareana  
 
 ##### Texas A&M University, English Department
-
-###### Graduate Teaching Assistant, August 2006 – August 2007
-Taught Composition and Rhetoric, Intro to Literature, and Technical Writing
+**Graduate Teaching Assistant, August 2006 – August 2007** // Taught Composition and Rhetoric, Intro to Literature, and Technical Writing
 
 ##### Texas A&M University, The John Donne Variorum
-
-###### Research Assistant, September 2004 – April 2005
-Transcribed copies of Donne's works for digital collation
+**Research Assistant, September 2004 – April 2005** // Transcribed copies of Donne's works for digital collation
 
 ### Fellowships
 
-##### Scholarly Communications Institute (2015), Duke University and The Mellon Foundation
-
-##### Early Modern Digital Agendas (2013), Folger Shakespeare Library and The NEH
-
-##### Katharine Pantzer Fellowship in the British Book Trades (2010), Bibliographical Society of America
-
-##### Short-term Research Fellowship (2010), Folger Shakespeare Library
-
-##### Regents' Fellowship (2004, 2005), Texas A&M University
+**Scholarly Communications Institute (2015)** Duke University and The Mellon Foundation
+**Early Modern Digital Agendas (2013)** Folger Shakespeare Library and The NEH
+**Katharine Pantzer Fellowship in the British Book Trades (2010)** Bibliographical Society of America
+**Short-term Research Fellowship (2010)** Folger Shakespeare Library
+**Regents' Fellowship (2004, 2005)** Texas A&M University
 
 ### Grants, Awards, Honors
 
