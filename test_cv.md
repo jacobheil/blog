@@ -4,7 +4,7 @@ title: CV // Jacob A. Heil
 permalink: /cv/
 ---
 
-Earthbound Communication   |        |  Electronic Communication
+Earthbound Communication   |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |  Electronic Communication
 -----  | :---: | -----:
 Andrews Library  | | [jheil@wooster.edu](mailto:jheil@wooster.edu)
 College of Wooster  | | 330.463.2436 (work)
