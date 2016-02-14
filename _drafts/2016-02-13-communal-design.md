@@ -5,10 +5,11 @@ permalink: communal-project-design
 
 ---
 
-I’m grateful for the chance to be on this panel today and -- as always -- I’m learning a great deal. The organizers either know me well or just fortunately sandwiched what seems to me to be a squishy center... 
+Last fall I had an opportunity to present at the first annual Liberal Arts Colleges' preconference at the Digital Library Federation (DLF) meeting in Vancouver. I was grateful to be [on a panel](http://sched.co/46QA) with Heather Thompkins and Daniel Chamberlain, and in my talk on "The Institution and Communal Project Development" the audience heard an abbreviated version of what follows. My ideas here grew concurrently, or at least coincidentally with those expressed in Bethany Nowviskie's post, [On Capacity and Care](http://nowviskie.org/2015/on-capacity-and-care/), and with Sarah Potvin's [*Scene Reports* interview of Laurie Allen](http://acrl.ala.org/dh/2015/10/23/sr-laurie-allen/) for [dh+lib](http://acrl.ala.org/dh/about/). To paraphrase Laurie here, one mustn't let an anxiety of influence keep one from writing. Instead, I want to suggest that these thoughts and others in the aether like them -- thoughts about care, about partnerships, about being deliberate in our work, about a "slow DH" -- arise at a particular moment for digital scholarship in which it is making an inward turn toward "the community of practice" as a unit of measure. Indeed, it is Miriam Posner who wrote (in 2014) of community building, 
+> ["Slow, small, and human are strange watchwords for a field that’s distinctive for its speed, size, and technology. But they’re not bad guidelines for connecting people together."](http://miriamposner.com/blog/here-and-there-creating-dh-community/)
+In my remarks last October in Vancouver, and so here as well, I want to suggest that the necessity of (not just the *importance of*) communities is an acute concern on Liberal Arts campuses. What's more: LACs may indeed be in the best position among institutions of higher education to leverage existing communities and to develop an industry standard (as it were) for digital development that is participatory, inclusive, and necessarily communal. ~~In a primarily pedagogocial context, we should supplant the despotism of the project/product dynamic with dynamic participants and partners.~~ 
 
 I’d like to bracket this presentation today as a question
-everything is “of the moment” (joke abt bad French, when in Rome, au currant)
 Digital Scholar in the Ohio Five
 In that capacity we’re building projects but (obviously) trying to figure out how to sustain these efforts going forward. 
 So half of what I do is top-level PM, or maybe project coordination or project facilitation is better.
