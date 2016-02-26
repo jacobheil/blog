@@ -11,13 +11,13 @@ dl, dd, ol, ul, figure {
 /**
  * Jumbotron background styling
  * http://stackoverflow.com/questions/20914711/bootstrap-3-jumbotron-background-image-effect
- */
+ 
 
  .bg {
   background-img: url('/images/full-left-shadow.jpg');
   position: fixed;
   width: 100%;
-  height: 350px; /*same height as jumbotron */
+  height: 350px; same height as jumbotron 
   top:0;
   left:0;
   z-index: -1;
@@ -26,6 +26,8 @@ dl, dd, ol, ul, figure {
 .jumbotron {
   background: url('https://dl.dropboxusercontent.com/u/60381091/dogs.20140419.1.jpg') no-repeat center center;
 }
+
+*/
 
 /**
  * Basic styling
