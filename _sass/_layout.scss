@@ -1,8 +1,9 @@
 /**
  * Site header
  */
+
 .site-header {
-    background: url("/images/full-left-shadow-top.jpg");
+    background: url(../images/full-left-shadow-top.jpg);
     background-size: 100%;
     background-repeat: no-repeat; 
     border-top: 5px solid $grey-color-dark;
@@ -92,10 +93,13 @@
 
 
 /**
- * Site footer  pmp/images/full-left-shadow-crop.jpg
+ * Site footer  
+"{{ "/css/main.css" | prepend: site.baseurl }}"
+https://github.com/jacobheil/pmp/blob/gh-pages/images/full-left-shadow-crop.jpg
+ pmp/images/full-left-shadow-crop.jpg
  */
 .site-footer {
-    background: url("/images/full-left-shadow-crop.jpg");
+    background: url(../images/full-left-shadow-crop.jpg);
     background-size: 100%;
     background-repeat: no-repeat; 
     border-top: 1px solid $grey-color-light;
