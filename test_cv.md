@@ -5,11 +5,11 @@ permalink: /cv/
 ---
 
 Earthbound Communication   |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |  Electronic Communication
------  | :---: | -----:
-Andrews Library  | | [jheil@wooster.edu](mailto:jheil@wooster.edu)
-College of Wooster  | | 330.463.2436 (work)
-1140 Beall Avenue  | | 409.392.1507 (mobile)
-Wooster, OH 44691  | | [jacobheil.com](http://jacobheil.com/) &  [@dr_heil](https://twitter.com/dr_heil)
+-----  | :---: | :---: |-----:
+Andrews Library  | | | [jheil@wooster.edu](mailto:jheil@wooster.edu)
+College of Wooster  | | | 330.463.2436 (work)
+1140 Beall Avenue  | | | 409.392.1507 (mobile)
+Wooster, OH 44691  | | | [jacobheil.com](http://jacobheil.com/) &  [@dr_heil](https://twitter.com/dr_heil)
 
 ## Education
 
