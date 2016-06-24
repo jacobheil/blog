@@ -4,12 +4,12 @@ title: Vita
 permalink: /cv/
 ---
 
-:-----  | :---: | :---: |-----:
-Earthbound Communication   | | |  Electronic Communication
-Andrews Library  | | | [jheil@wooster.edu](mailto:jheil@wooster.edu)
-College of Wooster  |  | | 330.463.2436 (work)
-1140 Beall Avenue  | | | 409.392.1507 (mobile)
-Wooster, OH 44691  | | | [jacobheil.com](http://jacobheil.com/) &  [@dr_heil](https://twitter.com/dr_heil)
+:-----  | -----:
+Earthbound Communication  | Electronic Communication
+Andrews Library  | [jheil@wooster.edu](mailto:jheil@wooster.edu)
+College of Wooster  | 330.463.2436 (work)
+1140 Beall Avenue  | 409.392.1507 (mobile)
+Wooster, OH 44691  | [jacobheil.com](http://jacobheil.com/) &  [@dr_heil](https://twitter.com/dr_heil)
 
 ## Education
 
