@@ -4,8 +4,8 @@ title: Vita
 permalink: /cv/
 ---
 
-[//]: <> (Earthbound Communication   |   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |  Electronic Communication)
------  | :---: | :---: |-----:
+:-----  | :---: | :---: |-----:
+Earthbound Communication   |  | |    |  Electronic Communication
 Andrews Library  | | | [jheil@wooster.edu](mailto:jheil@wooster.edu)
 College of Wooster  | | | 330.463.2436 (work)
 1140 Beall Avenue  | | | 409.392.1507 (mobile)
