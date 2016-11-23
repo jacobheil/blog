@@ -1,0 +1,10 @@
+---
+title: Dispatches from Milwaukee
+layout: post
+permalink: dlf2016
+
+---
+
+I'm at the Digital Library Federation meeting in Milwaukee, WI. Opening keynote, by [Jarrett Drake](https://blogs.princeton.edu/mudd/2014/06/meet-mudds-jarrett-m-drake/) , challenged us to think about Liberal Arts Colleges' implication in systemic racism and about the role of the archive in capturing student protests, etc. One way of doing so -- indeed one example of this happening -- is to use ArchiveIt to crawl (privately) select twitter feeds and hashtags as a way of gathering data about protests in real time. Individuals and groups might then be approached to ask if their work might be considered for inclusion in the archive. Drake notes that an archivist must be prepared to be told no. There seems to me to be a real tension there regarding the impulse (responsibility) to archive protests; our first duty must be to the voices themselves. 
+
+Then, in a hands-on presentation Nabil and Roberto talked a little about using Jekyll to deploy minimal sites for students. They've (at Swarthmore) leveraged Jekyll for exhibits, e.g., and to embed javascript-based apps like those from [KnightLabs](http://knightlab.northwestern.edu/projects/). Impressively, they've used ContentDM's API for the exhibits that they built. To be honest: this is the kind of work that I'd like most to be doing for a number of reasons both selfish and not. Selfishly, it's just interesting to me to learn how to deploy platforms that are lightweight and powerful. These, though, are also the unselfish reasons: if I could master the workflow between Github, gh-pages, Jekyll deployment, etc then I could really help us to make the digital scholarship on campus more visible. But it also gives real, useful skills to our students. This leads back to a selfish reason: I want to be able to use GitHub and Jekyll in my class for them to build projects and to post blogs. 
